@@ -1,7 +1,7 @@
 # Reinforcement-Learning-with-CLF-s
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
-This project contains code for some RL implementations where a Control Lyapunov Function is added to the reward function to accelerate the training process. This project also contains MATLAB code for computing Control Lyapunov Functions using Hamilton-Jacobi Reachability analysis. Read the full paper here. 
+This project contains code for some RL implementations where a Control Lyapunov Function is added to the reward function to accelerate the training process. This project also contains MATLAB code for computing Control Lyapunov Functions using Hamilton-Jacobi Reachability analysis. Read the full paper [here] (https://arxiv.org/abs/2403.12210). 
 
 
 Here, we show the trajectories of the different RL implementations done with our method. 
