@@ -50,7 +50,7 @@ but due to the lack of a general method, it is often a challenge to identify a s
 - `src/Reachability_CLVF` contains the code in MATLAB necessary for computing Lyapunov functions using Reachability. 
 - ToolboxLS contains the code for using Level Set methods to obtain solutions for Hamilton-Jacobi partial differential equations. For more information on how to use this toolbox, see [here](https://www.cs.ubc.ca/~mitchell/ToolboxLS/)
 - Before using the ToolBox, go to `src/Reachability_CLVF/add_path_to_tollbox.m` and modify the respective path accordingly to your computer. The run the script. 
-- helperOC-master has integrated functions to facilitate using the Toolbox. See [here]https://github.com/HJReachability/helperOC for more information on how to use helperOC. 
+- helperOC-master has integrated functions to facilitate using the Toolbox. See [here](https://github.com/HJReachability/helperOC) for more information on how to use helperOC. 
 - SystemDecomposition contains different examples for using our method to compute DCLF using system decomposition. Run `/src/Reachability_CLVF/System Decomposition/Dubins Car CLVF/main_dubins.m` to visualize the CLF for a Dubins Car example. This also creates a variable V_1.mat, which is used for the next steps in RL training. 
 
 ### Reinforcement Learning 
